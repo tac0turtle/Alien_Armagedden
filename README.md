@@ -72,5 +72,5 @@ The map generator generates test_data to be used for the games.
   - Create a benchmark table.
 
 
-### eslint turn offs:
-  - turned off [no-console] because this program is written for the terminal
+#### eslint turn offs:
+  - Turned off [no-console] because this program is written for the terminal.
