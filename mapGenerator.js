@@ -37,7 +37,6 @@ for (let row = matrixSize - 1; row >= 0; row--) {
 			city: cities.pop(),
 			roads: []
 		};
-		//console.log(row, col, matrix[row][col])
 	}
 }
 
