@@ -1,0 +1,84 @@
+Towveap north=Gaupatir
+Rafzihzut west=Atwasiz north=Tejwopvah
+Atwasiz west=Oruvakor north=Conuob
+Oruvakor west=Inuabipu north=Ditsopi
+Inuabipu west=Cifokral north=Emaafezi
+Cifokral west=Abiehoca north=Jeshufhah
+Abiehoca north=Huwdubu
+Gaupatir west=Honowtad
+Honowtad west=Favazav north=Rigitmu
+Favazav north=Uwifofow
+Tejwopvah west=Conuob north=Goigiva
+Conuob west=Ditsopi north=Cezcudzo
+Ditsopi west=Emaafezi north=Lefani
+Emaafezi north=Leegmu
+Jeshufhah west=Huwdubu north=Baskiswa
+Huwdubu west=Zamisu
+Zamisu north=Teiwika
+Goreda west=Rigitmu north=Guarco
+Rigitmu west=Uwifofow north=Emwaccaw
+Uwifofow west=Goigiva north=Vabmenal
+Goigiva west=Cezcudzo north=Vuptoliku
+Cezcudzo north=Mitozer
+Lefani west=Leegmu north=Pubwege
+Baskiswa west=Wonuzevi
+Wonuzevi north=Upgitu
+Guarco north=Kanoknes
+Emwaccaw west=Vabmenal north=Ibuwumge
+Vabmenal west=Vuptoliku north=Cepmazva
+Vuptoliku west=Mitozer north=Lassicjib
+Mitozer west=Pubwege north=Fugohoz
+Votatumid west=Upgitu north=Icsewpa
+Upgitu north=Socbokgab
+Mefofif north=Zorcajzu
+Kanoknes west=Ibuwumge north=Zaejtaw
+Ibuwumge west=Cepmazva north=Jietudud
+Cepmazva west=Lassicjib north=Fazilja
+Lassicjib north=Nukwizuci
+Mokulgo west=Dowaru
+Dowaru north=Gilviji
+Icsewpa west=Socbokgab north=Civomder
+Socbokgab west=Zorcajzu
+Zaejtaw west=Jietudud
+Jietudud west=Fazilja
+Fazilja west=Nukwizuci
+Nukwizuci west=Ifacapub north=Owepizkeb
+Ifacapub north=Ihiudoba
+Rekkodok west=Gilviji
+Gilviji west=Civomder
+Civomder west=Vandehun
+Vandehun west=Ivoahbic north=Viwweslu
+Ivoahbic north=Atiluzop
+Kuhook west=Uctofjaw north=Uvonevi
+Uctofjaw north=Focuwe
+Pucala west=Owepizkeb north=Hoeliaz
+Owepizkeb west=Ihiudoba north=Dobjosti
+Ihiudoba west=Gefzapehi north=Misoredi
+Gefzapehi north=Ziobso
+Bamefiw north=Mefaef
+Viwweslu west=Atiluzop
+Atiluzop north=Mederomo
+Uvonevi west=Focuwe
+Focuwe west=Hoeliaz north=Jejespih
+Hoeliaz west=Dobjosti
+Dobjosti west=Misoredi north=Rehemuf
+Misoredi west=Ziobso north=Fewurku
+Ziobso north=Ronepfe
+Sungoes west=Mefaef
+Mefaef west=Routaure
+Routaure west=Mederomo
+Mederomo north=Nanaceese
+Bebnefvel west=Jejespih north=Gumuwib
+Jejespih north=Pizehugiz
+Juvpalbe west=Rehemuf
+Rehemuf west=Fewurku north=Udousir
+Fewurku west=Ronepfe
+Ronepfe west=Coobzag north=Uzbodese
+Coobzag west=Gimifnid north=Owzetsor
+Gimifnid north=Wozrigrem
+Ziazepi west=Nanaceese
+Pizehugiz west=Otuwuzvek
+Dudosjoc west=Uzbodese
+Uzbodese west=Owzetsor
+Owzetsor west=Wozrigrem
+Zebupduv west=Ziatgov
