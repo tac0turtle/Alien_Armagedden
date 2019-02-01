@@ -23,7 +23,7 @@ class City {
 	}
 }
 
-module.exports = (data) => {
+const createMap = (data) => {
 	const line = data.split(/\n/);
 	let map = [];
 	line.map(line => {
@@ -42,3 +42,5 @@ module.exports = (data) => {
 	});
 	return map;
 };
+
+module.exports = { City, createMap};

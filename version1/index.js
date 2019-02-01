@@ -7,7 +7,7 @@ const figlet = require("figlet");
 const fs = require("fs");
 const Chance = require("chance");
 
-const createMap = require("./helpers/city");
+const { createMap } = require("./helpers/city");
 const Alien = require("./helpers/alien");
 
 const chance = new Chance();
