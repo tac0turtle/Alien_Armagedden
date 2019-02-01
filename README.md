@@ -24,6 +24,12 @@ Running the Game
   - The program will run and you will see output based on the destruction and movement. 
   - Once finished you will see the out put of the cities still standing.
 
+To run the tests:
+```
+npm run test-version1
+```
+Don't forget to npm install if you have not already.
+
 ## Version 2
 
 Version 2 is a partial map implementation ie.
@@ -51,6 +57,12 @@ cat <test_data_file_path> | npm run version2 alien=<alien_amount>
 
 Replace the data inside <___> to your preferred data
 
+To run the tests:
+```
+npm run test-version2
+```
+Don't forget to npm install if you have not already.
+
 ## Map Generator
 The map generator generates test_data to be used for the games.
   - Version 1: You need to comment out line 175 and uncomment 138.
@@ -67,7 +79,9 @@ The map generator generates test_data to be used for the games.
   - If an alien is stuck, it dies and does not keep trying to move.
 
 ## Upgrades
-  - Write tests for all approaches.
+  - nodejs 11.7 shipped with worker_threads, without --experimental, 
+    - setup using worker_threads
+    - test and benchmark against non worker_thread versions
   - Write version3 in go to benchmark the differences.
   - Create a benchmark table.
 

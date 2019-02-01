@@ -11,10 +11,6 @@ class City {
 		return this.links.push(city);
 	}
 
-	getDirections() {
-		return this.links;
-	}
-
 	removeLink(location) {
 		for (let index = 0; index < this.links.length; index++) {
 			if (this.links[index].split("=")[1] == location.cityName) this.links.splice(index, 1);

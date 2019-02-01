@@ -26,19 +26,19 @@ module.exports = class Alien {
 
 	traverseTheWorld(map) {
 		if (this.canMove() && this.isLiving) {
-			if (this.city.getDirections().length > 0) {
-				let newDestination = this.random(this.city.getDirections());
+			if (this.city.isDestroyed == true) {
+				console.log(`${this.id} was killed in the cross fire.`);
+				return this.destroyed();
+			} else if (this.city.links.length > 0) {
+				let newDestination = this.random(this.city.links);
 				newDestination = newDestination.split("=")[1];
 				for (let dest of map) {
-					if (dest.name == newDestination) {
+					if (dest.cityName == newDestination) {
 						this.movesLeft = this.movesLeft - 1;
 						return this.city = dest;
 					}
 				}
-			} else if (this.city.isDestroyed == true) {
-				console.log(`${this.id} was killed in the cross fire.`);
-				return this.destroyed();
-			}
+			} 
 			this.movesLeft = this.movesLeft - 1;
 			console.log(`${this.id} is stuck`);
 		}
